@@ -78,20 +78,12 @@ form
     transform: translate(-50%, -135%);
 }
 
-.card 
+.occupation 
 {
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-    max-width: 300px;
-    margin: auto;
     text-align: center;
-}
-  
-.title 
-{
     color: grey;
     font-size: 18px;
 }
-
 
 .button-card
 {
@@ -137,6 +129,11 @@ form
 {
     font-size: 25px;
     text-align: center;
+}
+
+.card
+{
+    margin: 5%;
 }
 
 .about
