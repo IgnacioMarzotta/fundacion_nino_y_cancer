@@ -1,0 +1,145 @@
+/* PROPERTIES */
+body
+{
+    background-image: url("../art/others/Background2.png");
+}
+
+img
+{
+    width: 100%;
+    height: 100%;
+    max-height: 100%;
+    margin: 0;
+    padding: 0;
+    background-size:100% 100%;
+    background-repeat: no-repeat;
+}
+
+h1
+{
+    -webkit-text-stroke-color: #ffffff;
+    -webkit-text-stroke-width: 0.5px; 
+}
+
+h3
+{
+    background-color: white;
+    text-align: center;
+}
+
+h5
+{
+    text-align: center;
+}
+
+h6
+{
+    background-color: #494949;
+    color: #ffffff;
+    padding: 1%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    margin-right: 10%;
+    margin-left: 10%;
+    -webkit-text-stroke-color: #000000;
+    -webkit-text-stroke-width: 0.5px; 
+}
+
+button:hover, a:hover 
+{
+    opacity: 0.7;
+}
+
+footer
+{
+    padding: 5px;
+    text-align: center;
+    background-color: #707070;
+}
+
+form
+{
+    margin-left: 2%;
+    color: white
+}
+
+/* CLASSES */ 
+.container 
+{
+    position: relative;
+}
+
+.centered 
+{
+    text-align: center;
+    position: absolute;
+    margin-top: -5%; 
+    margin-left: 50%;
+    transform: translate(-50%, -135%);
+}
+
+.card 
+{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+}
+  
+.title 
+{
+    color: grey;
+    font-size: 18px;
+}
+
+
+.button-card
+{
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+}
+ 
+.form-row
+{
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.btn-primary
+{
+    margin-left: 200px;
+}
+
+.form-group
+{
+    margin: 1%;
+}
+
+.form-check-label
+{
+    margin-left: 200px;
+}
+
+.form-check-input
+{
+    margin-left: 185px;
+}
+
+.mission
+{
+    font-size: 25px;
+    text-align: center;
+}
+
+.about
+{
+    font-size: 120px;
+}
