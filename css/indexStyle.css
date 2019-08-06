@@ -1,0 +1,24 @@
+/* PROPERTIES */
+body
+{
+    background-image: url("../art/others/Background.jpg");
+}
+
+/* CLASSES */
+.donation
+{
+    margin-top: 5%;
+    margin-right: 35%;
+    margin-left: 35%;
+}
+
+.related
+{
+    text-align: center;
+    background-color: #707070
+}
+
+.centered
+{
+    text-align: center;
+}
